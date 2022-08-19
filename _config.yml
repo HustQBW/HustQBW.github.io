@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu CAI"
+title                    : "Charon Homepage"
 title_separator          : "-"
-name                     : "Yu CAI"
+name                     : "Charon"
 description              : &description "personal description"
-url                      : https://caiyu6666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://HustQBW.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "caiyu6666/caiyu6666.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "HustQBW/HustQBW.github.io"
+teaser                   : "mm.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yu CAI 蔡煜"
-  avatar           : "profile.png"
-  bio              : "PhD student at HKUST ECE."
-  location         : "Hong Kong SAR, China"
+  name             : "Charon 瞿博文"
+  avatar           : "bwqu.jpg"
+  bio              : "Mphil student at PKU SECE."
+  location         : "Shenzhen, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=kR5LuzgAAAAJ&hl=zh-CN"
-  email            : "yu.cai@connect.ust.hk"
+  github           : "https://github.com/HustQBW"
+  email            : "bowenqu@stu.pku.edu.cn"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "caiyu6666"
+  googlescholar    : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yu-cai-130983208/"
+  linkedin         :
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
