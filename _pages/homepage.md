@@ -25,7 +25,7 @@ Computer Vision, Deep Learning.
 
 
 ## Internship
-- **[2022/05-2022/08]** iFLYTEK AI Engineering Institute (Smart City Business Group)   科大讯飞AI工程院(智慧城市事业群)
+- **[2022/05-2022/09]** iFLYTEK AI Engineering Institute (Smart City Business Group)   科大讯飞AI工程院(智慧城市事业群)
 
 
 ## Publications
