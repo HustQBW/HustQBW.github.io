@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Charon Homepage"
+title                    : "Coobiw Homepage"
 title_separator          : "-"
-name                     : "Charon"
+name                     : "Coobiw"
 description              : &description "personal description"
-url                      : https://HustQBW.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://coobiw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "HustQBW/HustQBW.github.io"
+repository               : "Coobiw/coobiw.github.io"
 teaser                   : "mm.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
